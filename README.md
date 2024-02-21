@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @coolboy19521
 - 👀 I’m interested in Low Level Programming & Competitive Programming
 - 🌱 I’m currently learning Competitive Programming with C++
-- 💞️ I’m looking to collaborate on Fancy Projects
 - 📫 How to reach me coolboy19521@gmail.com
 
 <!---
